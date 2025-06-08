@@ -8,16 +8,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/igor-marcon-michels-3b068b360/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">📊 Stats</h3>
 
 ###
@@ -62,6 +52,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IgorMMichels/IgorMMichels/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
