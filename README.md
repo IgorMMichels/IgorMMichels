@@ -6,9 +6,31 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorMMichels&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <a href="https://www.linkedin.com/in/igor-marcon-michels-3b068b360/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">📊 Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorMMichels&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🤖 My Languages</h3>
 
 ###
 
@@ -28,16 +50,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">VISIT COUNTER</h2>
+<h3 align="center">VISIT COUNTER</h3>
 
 ###
 
@@ -54,3 +67,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igormmichels/igormmichels/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/igormmichels/output/github-snake.svg" />
 </picture>
+
+###
