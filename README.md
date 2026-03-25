@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🧑‍🎓 Currently Studying at IFC Araquari<br>👨‍💻 Learning HTML, CSS and JS</h4>
+<h4 align="left">🧑‍🎓 Currently Studying at IFC Araquari<br>👨‍💻 Learning JS, Vue, Lua, Python, Node</h4>
 
 ###
 
